@@ -1,0 +1,2 @@
+C:\project\C\chushi_Cyuyan\Debug\chushi_Cyuyan.exe
+C:\project\C\chushi_Cyuyan\Debug\chushi_Cyuyan.pdb

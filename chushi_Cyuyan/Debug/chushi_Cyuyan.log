@@ -1,0 +1,5 @@
+﻿  chushi_cyuyan.c
+C:\project\C\chushi_Cyuyan\chushi_cyuyan.c(15,21): warning C4566: 由通用字符名称“\u8BED”表示的字符不能在当前代码页(949)中表示出来
+C:\project\C\chushi_Cyuyan\chushi_cyuyan.c(15,21): warning C4566: 由通用字符名称“\u8BBE”表示的字符不能在当前代码页(949)中表示出来
+C:\project\C\chushi_Cyuyan\chushi_cyuyan.c(15,21): warning C4566: 由通用字符名称“\u8BA1”表示的字符不能在当前代码页(949)中表示出来
+  chushi_Cyuyan.vcxproj -> C:\project\C\chushi_Cyuyan\Debug\chushi_Cyuyan.exe
